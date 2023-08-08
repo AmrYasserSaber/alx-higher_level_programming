@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cd71edd-3d2d-4bae-918e-60e597767f6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/13-insert_number.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
     </list>
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691494235681</updated>
-      <workItem from="1691494236764" duration="7361000" />
+      <workItem from="1691494236764" duration="7684000" />
     </task>
     <servers />
   </component>
