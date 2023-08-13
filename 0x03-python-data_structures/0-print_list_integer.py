@@ -2,4 +2,4 @@
 
 def element_at(my_list, idx):
     for item in my_list:
-        print(item)
+        print("{:d}".format(item))
