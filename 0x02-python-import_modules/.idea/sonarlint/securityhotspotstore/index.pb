@@ -1,0 +1,21 @@
+
+8
+0-add.py,7\3\739c39abae54c35079eaf19a078ecc3465008b7c
+9
+	2-args.py,4\d\4da4b31a6a8fca88e284f28f86710b814472d86f
+A
+3-infinite_add.py,7\3\73d3c0b1a5c325b1c3bef7f382f59039db1c4f6b
+B
+5-variable_load.py,9\3\93e1643046e5e19eb2d4a549f2c50b16b874d868
+D
+100-my_calculator.py,5\8\580af49f87c41aa5fa7e9d529639e87178c77d6b
+D
+103-fast_alphabet.py,0\9\091ff7c7fd0db70e5b2f1357b58e54ef66b91588
+H
+102-magic_calculation.py,1\0\10831147573b6d1a3f482e1ef48be15e1e897f36
+E
+4-hidden_discovery.py,8\b\8bb74381d31a41d72537ee05c4faac80bdf4b586
+A
+101-easy_print.py,f\1\f1082413ca41e4f00d6b1a97b174425b86476938
+@
+1-calculation.py,3\3\3326474cfbdda85c7b6fbddee0573ad8d1221f22
