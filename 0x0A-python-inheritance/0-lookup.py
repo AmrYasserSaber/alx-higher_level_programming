@@ -1,6 +1,6 @@
-def list_attributes_and_methods(obj):
+def lookup(obj):
     """
-    List available attributes and methods of an object.
+    Return a list of available attributes and methods of an object.
 
     Args:
         obj: The object to inspect.
@@ -8,7 +8,9 @@ def list_attributes_and_methods(obj):
     Returns:
         A list of strings containing the names of attributes and methods.
     """
+    import types  # Import the types module here
+
     if hasattr(obj, '__dir__'):
-        return [attr for attr in dir(obj) if isinstance(getattr(obj, attr), (type, types.FunctionType))]
+        return [attr for attr in dir(obj)]
     else:
         return []
