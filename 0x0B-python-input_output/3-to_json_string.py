@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-"""module for appending text"""
+"""converting to json form"""
+import json
 
 
 def to_json_string(my_obj):
-    """Write a function that returns the JSON representation of an object (string):
-    """
-    import json
+    """convert the object to json"""
     return json.dumps(my_obj)
