@@ -3,16 +3,26 @@
 import json
 
 
+class MyClass:
+    def __init__(self, name):
+        self.name = name
+        self.number = 0
+
+    def __str__(self):
+        return "[MyClass] {} - {:d}".format(self.name, self.number)
+
 def class_to_json(obj):
-    # Get the class attributes and their values
-    attributes = obj.__dict__
+    if isinstance(obj, (str, int, bool)):
+        return obj
 
-    # Initialize a dictionary to store the JSON-serializable representation
-    json_dict = {}
+    if isinstance(obj, list):
+        return [class_to_json(item) for item in obj]
 
-    for key, value in attributes.items():
-        # Check if the value is a serializable type
-        if isinstance(value, (list, dict, str, int, bool)):
-            json_dict[key] = value
+    if isinstance(obj, dict):
+        return {key: class_to_json(value) for key, value in obj.items()}
 
-    return json_dict
+    if hasattr(obj, '__dict__'):
+        data = {}
+        for key, value in obj.__dict__.items():
+            data[key] = class_to_json(value)
+        return data
