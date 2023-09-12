@@ -3,9 +3,6 @@
 +0x07-python-test_driven_development/main.py,9\2\92f9d61dab970c6e58f5dc1c150528490483defc
 d
 40x07-python-test_driven_development/0-add_integer.py,a\b\ab16cde58843aa27bd89a236f42cbcb930975aa7
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 R
 "0x08-python-more_classes/README.md,8\8\88b759aa98ad2b2bed7ad65a6a0e23f33a123ea0
 W
