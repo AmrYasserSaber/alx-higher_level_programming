@@ -77,3 +77,17 @@ R
 ,0x0A-python-inheritance/101-add_attribute.py,b\9\b9b5bc40318d99db20f2222c60122251d69aa6e5
 U
 %0x0A-python-inheritance/100-my_int.py,a\7\a741908bbf92350ba5f0b4cf1d0ea34fcf3eebef
+X
+(0x0B-python-input_output/1-write_file.py,1\9\19670d7828a6a12fa05fc792d4930e43bf2a6002
+W
+'0x0B-python-input_output/0-read_file.py,7\d\7d2cb8fe9e8f9d26ec8d6f950b79d732a85ad962
+U
+%0x0C-python-almost_a_circle/README.md,8\4\845175adda6131462f85e8f01475b52db3aa9231
+\
+,0x0C-python-almost_a_circle/models/square.py,2\4\247910c2e87a7cc2650209c4a258fdbb38c67173
+Z
+*0x0C-python-almost_a_circle/models/base.py,0\d\0d85abc4c3f54471c1544bfe01c680e1a02312cc
+_
+/0x0C-python-almost_a_circle/models/rectangle.py,6\7\673c06095133f2cb2564912909990ad4c9fe4c63
+j
+:0x0C-python-almost_a_circle/tests/test_models/test_base.py,1\b\1b6c6c92adc1f826200ad19d55fcd0e539e8ba4f
