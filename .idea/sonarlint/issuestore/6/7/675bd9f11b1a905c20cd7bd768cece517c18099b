@@ -1,0 +1,16 @@
+
+Œpython:S101"uRename class "TestRectangle_instantiation" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(©•æÑ
+ƒpython:S101r"mRename class "TestRectangle_width" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ñ’ß
+Apython:S5781›"(Change or remove duplicates of this key.(‘šç´
+†python:S101¾"nRename class "TestRectangle_height" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(®ôÈÏ
+Apython:S5781ã"(Change or remove duplicates of this key.(ÂÔëò
+†python:S101†"iRename class "TestRectangle_x" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(±ÅŸÁýÿÿÿÿ
+Fpython:S5781¯"(Change or remove duplicates of this key.(–’·Ýýÿÿÿÿ
+†python:S101Î"iRename class "TestRectangle_y" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÐÃª™øÿÿÿÿ
+Apython:S5781ó"(Change or remove duplicates of this key.(¨ÜÊã
+—python:S101’"Rename class "TestRectangle_order_of_initialization" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÒÑÝÙ
+‰python:S101®"lRename class "TestRectangle_area" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¨ïÖßùÿÿÿÿ
+†python:S101Å"nRename class "TestRectangle_stdout" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ö¯ÈÈ
+‹python:S101š"sRename class "TestRectangle_update_args" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ð½ÿž
+Œpython:S101¤"uRename class "TestRectangle_update_kwargs" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Á¢Ø!
+Œpython:S101”"uRename class "TestRectangle_to_dictionary" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÊïË,

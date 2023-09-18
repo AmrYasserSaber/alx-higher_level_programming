@@ -1,0 +1,14 @@
+
+python:S101"rRename class "TestSquare_instantiation" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÿè—’ûÿÿÿÿ
+…python:S101Y"iRename class "TestSquare_size" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ìÚ£§úÿÿÿÿ
+Fpython:S5781‚"(Change or remove duplicates of this key.(°õüÿÿÿÿ
+}python:S101¦"fRename class "TestSquare_x" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¿¦»e
+Apython:S5781Ï"(Change or remove duplicates of this key.(ïÿøŸ
+~python:S101î"fRename class "TestSquare_y" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‹šÎŠ
+Fpython:S5781“"(Change or remove duplicates of this key.(’éåùÿÿÿÿ
+™python:S101²"|Rename class "TestSquare_order_of_initialization" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(×ë¡—ùÿÿÿÿ
+†python:S101Â"iRename class "TestSquare_area" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(™ï×êûÿÿÿÿ
+ƒpython:S101×"kRename class "TestSquare_stdout" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¶¨Ö
+python:S101ª"pRename class "TestSquare_update_args" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ø°³•úÿÿÿÿ
+python:S101š"rRename class "TestSquare_update_kwargs" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(€¼ô†øÿÿÿÿ
+python:S101€"rRename class "TestSquare_to_dictionary" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(üÖØÿşÿÿÿÿ

@@ -1,0 +1,23 @@
+
+python:S101"pRename class "TestBase_instantiation" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÃÌÂì8ºš×ğ©1
+Jpython:S1481"&Remove the unused local variable "b2".(ÒÍ²‹ÿÿÿÿÿ8»š×ğ©1
+Epython:S1481-"&Remove the unused local variable "b2".(ÇŠ÷8¼š×ğ©1
+”python:S101l"qRename class "TestBase_to_json_string" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÈšÿÌşÿÿÿÿ8¾š×ğ©1
+“python:S101š"oRename class "TestBase_save_to_file" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‘×ÿˆÿÿÿÿÿ8¿š×ğ©1
+qpython:S2710"QRename "self" to a valid class parameter name or add the missing class parameter.(•ûÜë8¿š×ğ©1
+’python:S101è"sRename class "TestBase_from_json_string" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(•¸¸¢8¿š×ğ©1
+python:S101"iRename class "TestBase_create" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(°Öîíùÿÿÿÿ8¿š×ğ©1
+Epython:S1481¤"&Remove the unused local variable "r2".(æŸä8¿š×ğ©1
+Kpython:S1481¼"&Remove the unused local variable "s2".(à¦‘£úÿÿÿÿ8¿š×ğ©1
+python:S101Ò"qRename class "TestBase_load_from_file" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ëÜÈÿ8¿š×ğ©1
+qpython:S2710Ö"QRename "self" to a valid class parameter name or add the missing class parameter.(•ûÜë8¿š×ğ©1
+’python:S101”"sRename class "TestBase_save_to_file_csv" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(à½ÁÌ8¿š×ğ©1
+qpython:S2710˜"QRename "self" to a valid class parameter name or add the missing class parameter.(•ûÜë8¿š×ğ©1
+Wpython:S5914«"7Replace this expression; its boolean value is constant.(ÌµÜß8¿š×ğ©1
+\python:S5914²"7Replace this expression; its boolean value is constant.(›ÿ”Åşÿÿÿÿ8¿š×ğ©1
+\python:S5914¸"7Replace this expression; its boolean value is constant.(ÄÊÁâşÿÿÿÿ8¿š×ğ©1
+Wpython:S5914¿"7Replace this expression; its boolean value is constant.(ÎØÇ8¿š×ğ©1
+\python:S5914Å"7Replace this expression; its boolean value is constant.(ÄÊÁâşÿÿÿÿ8¿š×ğ©1
+\python:S5914Í"7Replace this expression; its boolean value is constant.(ÄÊÁâşÿÿÿÿ8¿š×ğ©1
+™python:S101â"uRename class "TestBase_load_from_file_csv" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¸±¬ôüÿÿÿÿ8¿š×ğ©1
+qpython:S2710æ"QRename "self" to a valid class parameter name or add the missing class parameter.(•ûÜë8¿š×ğ©1

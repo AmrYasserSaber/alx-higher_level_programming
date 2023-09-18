@@ -91,3 +91,15 @@ _
 /0x0C-python-almost_a_circle/models/rectangle.py,6\7\673c06095133f2cb2564912909990ad4c9fe4c63
 j
 :0x0C-python-almost_a_circle/tests/test_models/test_base.py,1\b\1b6c6c92adc1f826200ad19d55fcd0e539e8ba4f
+o
+?0x0C-python-almost_a_circle/tests/test_models/test_rectangle.py,6\7\675bd9f11b1a905c20cd7bd768cece517c18099b
+l
+<0x0C-python-almost_a_circle/tests/test_models/test_square.py,8\d\8d31c11b737b385ee52d3745ce6b221e20bce5f6
+i
+90x0C-python-almost_a_circle/tests/test_models/__init__.py,9\5\95bd3afce2a6fc3157b9612253e14509a4306583
+^
+.0x0C-python-almost_a_circle/models/__init__.py,3\e\3ed73ff375ba86cd5ebfb5a0a0aaf77ae0d06f74
+]
+-0x0C-python-almost_a_circle/tests/__init__.py,e\1\e1c617c6eaf5b1224a45799298da2965d6d82b4f
+W
+'0x0C-python-almost_a_circle/__init__.py,e\5\e514a8e7f9b13c484edfd6e663044f4826bb2d8c
